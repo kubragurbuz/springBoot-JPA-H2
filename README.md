@@ -8,3 +8,5 @@ Just press the connect button.
 
 The data created in the database consists of the data.sql file. In the code we wrote in development, 
 you can list the data in the database with the url http://localhost:8080/demo/billionaries
+
+http://localhost:8080/demo for initial test api
